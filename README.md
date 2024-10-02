@@ -1,5 +1,5 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://uniat.com/wp-content/uploads/2016/06/D-Programaci%C3%B3n-en-C.png" />
-&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/what-is-a-full-stack-developer.png" />
+
 
 <p align="center">Currently studying Tec. Systems Development, Passionate about Graphic Design and Technology and A.I.</p>&nbsp;
 
@@ -38,7 +38,6 @@
 <a href="https://www.linkedin.com/in/mariana-pereira-609bb51b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/what-is-a-full-stack-developer.png" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
